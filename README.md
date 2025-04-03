@@ -1,7 +1,7 @@
 # Trending Movies Web Application
 
 ## Description
-Full-stack **React.js** application for displaying movies fetched from the public TMDB API.\
+Full-stack **ReactJS** application for displaying movies fetched from the public TMDB API.\
 Used own **Express backend server** as a proxy to forward API requests.\
 Implemented functionality for searching movies by name and persistent storage (MySQL) of search metrics ​​to display trending movies.
 
@@ -20,5 +20,5 @@ Architectures, frameworks and tools used:
   - node-fetch
   - CORS
 - Frontend:
-  - React.js (frontend)
+  - ReactJS (frontend)
   - Tailwind CSS
